@@ -210,7 +210,7 @@ and Ministry of Youth and Sports.
 	 <a name="ma">Map</a>
      <div class="map"> <center>
 	 <h1>Gold's Gym Locations</h1>
-	 <p We’ve spent over 50 years defining fitness and now we’re reinventing it. <br>
+	 <p Weâ€™ve spent over 50 years defining fitness and now weâ€™re reinventing it. <br>
 	 With personal fitness profiles backed by 3D scanning technology,<br>
 	 both traditional and digital personal training options and 
 	 new STUDIO offerings that go past a simple class; <br>
